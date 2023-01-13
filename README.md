@@ -24,9 +24,9 @@ That all being said, there are a a few variations you can choose between. With t
 
 # Links
 
-Website : https://grindboiwes.github.io/TopSecretPassword/
+Website : https://grindboiwes.github.io/MyTopSecretPassword/
 
-Github : https://github.com/GrindBoiWes/TopSecretPassword
+Github : https://github.com/GrindBoiWes/MyTopSecretPassword
 
 
 # Credit
